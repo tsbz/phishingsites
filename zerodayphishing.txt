@@ -97,3 +97,24 @@
 0.0.0.0 www.m.psservices.runescape.com-mv.ru
 0.0.0.0 m.psservices.runescape.com-oa.ru
 0.0.0.0 www.perversas.cl
+webdisk.verification-user-login-content.cloudns.cl
+pcontacts.verification-user-login-content.cloudns.cl
+cpanel.verification-user-login-content.cloudns.cl
+www.blog.runescape.com-wsvs.top
+secure-web.sco.cisco.com.admin-us.cas.ms
+secure-web.sco.cisco.com.admin-mcas.ms
+secure-web.sco.cisco.com.admin-eu.cas.ms
+cpcontacts.secure04df-login.x24hr.com
+cpcontacts.secure001cv-login.x24hr.com
+cpcontacts.secure001a-login.itsaol.com
+www.wellsfargo.com-secure.fixfotos.com
+wellsfargo.com-secure.fixfotos.com
+paypalaccountverifycation-provideinformation-idnixmbom-com.cf
+paypalaccountverifycation-provideinformation-idbcs1.cf
+www.paypal.com.webscrlcmdl.login.submit.dispatch.5885d80a13c0db1f8e26365a50598f04d9273303713ba313.5885d80a13c0db1f8e263663d3f.aee811d01j111yh0111ix.amaranthe.ca
+paypal.com.webscrlcmdl.login.submit.dispatch.5885d80a13c0db1f8e26365a50598f04d9273303713ba313.5885d80a13c0db1f8e263663d3f.aee811d01j111yh0111ix.amaranthe.ca
+mail.paypal.com.webscrlcmdl.login.submit.dispatch.5885d80a13c0db1f8e26365a50598f04d9273303713ba313.5885d80a13c0db1f8e263663d3f.aee811d01j111yh0111ix.amaranthe.ca
+www.verify-paypal-account.interlakesbuilders.com
+verify-paypal-account.interlakesbuilders.com
+myaccount.globalservices.bt.com.admin-us3.cas.ms
+myaccount.globalservices.bt.com.admin-us2.cas.ms
