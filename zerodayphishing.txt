@@ -96,3 +96,4 @@
 0.0.0.0 www.m.httpsservices.runescape.com-mv.ru
 0.0.0.0 www.m.psservices.runescape.com-mv.ru
 0.0.0.0 m.psservices.runescape.com-oa.ru
+0.0.0.0 www.perversas.cl
